@@ -34,7 +34,10 @@ a 6-clinic healthcare network serving 40,000+ active patients.
 - [Risk Register](./risk-register.md)
 - [Rollout Timeline](./timeline.md)
 - [Training Plan](./training-plan.md)
+- [Communication Plan](./communication-plan.md)
+- [Stakeholder Register](./stakeholder-register.md)
 - [Go-Live Checklist](./go-live-checklist.md)
+- [Lessons Learned](./lessons-learned.md)
 - [Post-Implementation Review](./post-implementation-review.md)
 
 ## Outcome
